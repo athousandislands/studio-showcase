@@ -2,26 +2,30 @@
 
 I’m Joel Meshak, a creative technologist based in Nairobi. A Thousand Islands is my independent studio for interactive websites and browser-based creative tools.
 
+[Visit the studio](https://athousandislands.tech/) · [Open my portfolio](https://joelmeshak.com/)
+
+[![The current Featured Work carousel showing Echo, Pulse and the portfolio Mind Map](docs/media/featured-work.jpg)](https://athousandislands.tech/#featured-work)
+
 ## Selected work
 
 | Project | What I made | Explore |
 | --- | --- | --- |
-| **A Thousand Islands** | The studio website uses frosted-glass visuals and muffled sound to make discovery feel tactile. | [Live site](https://athousandislands.tech/) · [Source code](https://github.com/athousandislands/A-Thousand-Islands-Landing-Page) |
-| **Personal portfolio** | An interactive archive of my design work. Mind Map adds a 3D way to browse the collection and supports optional Pulse hand controls on desktop. | [Live portfolio](https://joelmeshak.com/) · [Case study](https://athousandislands.tech/creative-portfolio/) |
+| **Personal portfolio** | An interactive archive of my design work. The Vault organizes collections, and Mind Map brings the references behind the work into a 3D space. | [Live portfolio](https://joelmeshak.com/) · [Case study](https://athousandislands.tech/creative-portfolio/) · [Source code](https://github.com/athousandislands/joelmeshakportfolio) |
+| **A Thousand Islands** | A studio website that uses frosted glass, muffled sound and small reveals to invite people into the work. | [Live site](https://athousandislands.tech/) · [Source code](https://github.com/athousandislands/A-Thousand-Islands-Landing-Page) |
 | **Echo** | A browser experiment that translates music or live sound into movement across an image. | [Case study and video](https://athousandislands.tech/echo/) |
 | **Pulse** | A camera-based experiment that lets people shape an image with their hand movements. | [Case study and video](https://athousandislands.tech/pulse/) |
 
 ## Project milestones
 
-### Studio website
-
-- **14 Nov 2026** — Published the redesigned site with responsive navigation and sound controls. [See the release commit](https://github.com/athousandislands/A-Thousand-Islands-Landing-Page/commit/b40fe0d282e1dd654a2f69f95c1bbc8ffa0cdead).
-- **18 Nov 2026** — Fixed a navigation stall and improved playback on the project pages. [See the fix](https://github.com/athousandislands/A-Thousand-Islands-Landing-Page/commit/09bef9d2ef9d04fff0183191c306e55852e1c902).
-
 ### Personal portfolio
 
-- **13 Oct 2026** — Moved the portfolio to a modular build and added a mobile version of Mind Map.
-- **14 Oct 2026** — Improved mobile loading and added clearer guidance for browsing the gallery.
+- **13 Oct 2026 — Made the archive easier to grow.** I separated the desktop, mobile and shared code, then added a repeatable way to prepare artwork and check builds. I also brought the desktop Mind Map to touchscreens.
+- **14 Oct 2026 — Made the phone experience easier to explore.** Project images get priority while Mind Map prepares when it can. The map remembers where you left off during a visit, and a short cue helps people find their way into the Gallery. [Full portfolio timeline](https://github.com/athousandislands/joelmeshakportfolio#milestones)
+
+### Studio website
+
+- **14 Nov 2026 — Turned the landing page into a studio site.** I connected the homepage, Services, Work and the showreel through a shared visual language, with touch and keyboard interaction and optional sound.
+- **18–19 Nov 2026 — Smoothed out the moments between pages.** Visitors gained a way to recover from stalled project loads, and the homepage got simpler scroll motion and a more stable reveal. [Full website timeline](https://github.com/athousandislands/A-Thousand-Islands-Landing-Page#milestones)
 
 ### Echo
 
